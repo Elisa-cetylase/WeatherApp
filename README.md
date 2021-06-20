@@ -1,6 +1,6 @@
 # WeatherApp
 
-Simple Weather application.
+Simple Weather application, in French.
 Show you :
 - The weather of the day 
 - Forecasts every three hours associated.
